@@ -1,6 +1,6 @@
 <html>
 	<body>
-		<?php phpinfo();?>
+		<?php echo "Hello World!"; ?>
 		
 	</body>
 
